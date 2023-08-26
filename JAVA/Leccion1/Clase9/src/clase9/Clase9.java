@@ -15,7 +15,6 @@ public class Clase9 {
         int nota2 = leer.nextInt();
         System.out.println("Ingrese la tercer nota");
         int nota3 = leer.nextInt();
-        
         int notafinal = nota1+nota2+nota3;   
     System.out.println("La suma de las 3 notas es: " + notafinal);
     }
